@@ -1,0 +1,10 @@
+eureka:
+  instance:
+    hostname: a-client
+    prefer-ip-address: true
+  client:
+    service-url:
+      defaultZone: http://localhost:7000/eureka/
+spring:
+  application:
+    name: a-client
