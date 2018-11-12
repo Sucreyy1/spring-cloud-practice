@@ -12,6 +12,8 @@
         <module>eureka-server</module>
         <module>a-client</module>
         <module>b-client</module>
+        <module>c-client</module>
+        <module>hystrix-dashboard</module>
     </modules>
 
     <dependencyManagement>
