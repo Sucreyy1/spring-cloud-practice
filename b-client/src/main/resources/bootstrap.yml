@@ -2,7 +2,7 @@ server:
   port: 7002
 spring:
   application:
-    name: b-clientaaa
+    name: b-clientaaabbmn
 eureka:
   instance:
     prefer-ip-address: true
